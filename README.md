@@ -1,3 +1,5 @@
+Decouvrez le website live à l'url : https://romain-baudet.github.io/Pokedex-React/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
